@@ -1,0 +1,5 @@
+print ("----------Biodata----------")
+print ("Nama     : Rindiani Awanda Putri")
+print ("Kelas    : Teknik Informstika 2018 A")
+print ("Fakultas : Ilmu Komputer")
+print ("Kampus   : Universitas Nahdlatul Ulama Sidoarjo")
